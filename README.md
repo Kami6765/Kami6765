@@ -1,3 +1,3 @@
 # DFOCMARU
 
-Hello, DFOCMARU here.
+Hello! I’m DFOCMARU, and I have a solid foundation in a variety of programming languages and development areas. I’m proficient in HTML, CSS, JavaScript, and Python, with the ability to build dynamic websites, design clean user interfaces, and develop interactive applications. My knowledge extends to game development, where I enjoy combining creativity with technical skills to design and implement engaging experiences. My conceptual understanding of these technologies is strong, which allows me to quickly grasp new concepts and adapt to different development challenges. I’m passionate about learning and constantly improving my skills in both web and game development.
